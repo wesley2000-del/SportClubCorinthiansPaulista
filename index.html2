@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RIVALIDADES</title>
+  <style>
+  body{
+             background-color:white ;
+             color: black;
+            font-family: "Poppins", sans-serif; 
+            text-align:center;
+           margin: 0;
+           padding:30px;
+           }
+           p{
+             text-align: justify;
+             font-weight: 300;
+             line-height: 1.6;
+             font-size: 20px;
+             max-width: 900px;
+             margin: 20px auto;
+           }
+           h1{
+             margin-top: 20px;
+             font-weight: 500;
+             text-align: center;
+             font-size:36px;
+             margin-bottom: 20px;
+           }
+           img{
+             border-radius: 0 20px 0 20px;
+           }
+  </style>
+</head>
+<body>
+  <h1>QUAL A MAIOR RIVALIDADE DA HISTORIA DO CORINTJIANS E A HISTORIA DA RIVALIDADE?</h1>
+  <p>O maior rival do Corinthians é o Palmeiras. A rivalidade entre os dois clubes é conhecida como Dérbi Paulista e é considerada uma das maiores do futebol brasileiro e mundial. Ela começou no início do século XX, quando o Palestra Itália — nome original do Palmeiras — foi fundado em 1914, enquanto o Corinthians já existia desde 1910 e tinha forte ligação com as classes populares de São Paulo. O primeiro confronto entre os dois aconteceu em 6 de maio de 1917, e o Palestra venceu por 3 a 0. Desde esse jogo, o clima entre as torcidas já era quente e o confronto passou a ser visto como o clássico principal da cidade.
+
+A rivalidade cresceu por causa das diferenças sociais entre os clubes: enquanto o Corinthians era o time do povo, formado por operários e trabalhadores, o Palestra Itália era ligado à colônia italiana e representava um grupo social diferente. Isso fez com que o clássico tivesse um significado além do futebol, envolvendo identidade e orgulho das torcidas.
+
+Um dos momentos mais marcantes dessa história aconteceu em 1942, durante a Segunda Guerra Mundial, quando o governo brasileiro proibiu clubes de terem nomes ligados a países inimigos. O Palestra Itália foi obrigado a mudar de nome e, após muita pressão, decidiu se chamar Sociedade Esportiva Palmeiras. O primeiro jogo do clube com o novo nome foi justamente contra o Corinthians. O Palmeiras venceu a partida em um jogo histórico, conhecido pelos palmeirenses como "A Arrancada Heroica", e esse confronto elevou o nível da rivalidade a outro patamar.
+
+Com o passar das décadas, Corinthians e Palmeiras se enfrentaram em inúmeros jogos decisivos, como finais de Campeonato Paulista, confrontos pelo Campeonato Brasileiro, Libertadores e outras competições. Esses jogos renderam polêmicas, expulsões, confusões e momentos inesquecíveis que mantiveram o Dérbi Paulista no topo das rivalidades do futebol.
+
+Até hoje, Corinthians x Palmeiras é o duelo mais esperado para as duas torcidas. É um clássico tenso, disputado e carregado de história, sendo considerado o jogo mais importante da temporada para ambos os lados.</p><br>
+  <h1>QUAL A MAIOR GOLEADO DO CORINTHIANS SOBRE O PALMEIRAS?</h1><br>
+           <p>A maior vitória do Corinthians sobre o Palmeiras é de 5 a 1.
+Há registro de duas vezes que isso aconteceu: em 1952 (Taça Cidade de São Paulo) e em 1982 (Campeonato Paulista). </p><br><br>
+           <h1>QUAIS TITULOS CORINTHIANS GANHOU SOBRE O PALMEIRAS:</h1><br>
+           <p>- Campeonato Paulista de 1995
+O Corinthians foi campeão com gol de Elivelton na prorrogação, vencendo o Palmeiras na final.</p><br>
+           <p>- Campeonato Paulista de 1999
+Depois de empatar por 2 a 2 no segundo jogo da final, o Corinthians confirmou o título sobre o Palmeiras.</p><br>
+           <p>-Campeonato Paulista de 2018
+Decisão no Allianz Parque. O Corinthians venceu nos pênaltis, com grande atuação do goleiro Cássio.</p><br>
+           <p>-Campeonato Paulista de 2025
+O Corinthians conquistou mais um Paulistão sobre o Palmeiras, mesmo jogando parte da partida com um jogador a menos.</p><br>
+<a href="pagina3.html">
+  <button>Ir para pagina3</button>
+</a>
+</body>
+</html>
